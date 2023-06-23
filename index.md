@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Nature's Canvas
 author: Alan Paul
 description: Test blog
 ---
